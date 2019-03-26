@@ -29,7 +29,8 @@
 	</div>
 	
 	<?php include 'includes/footer.php'; ?>
-
+	<?php include 'includes/dummy.php'; ?>
+	
 	<!-- Optional JavaScript -->
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 	<script src="js/jquery.min.js"></script>

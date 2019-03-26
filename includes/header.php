@@ -1,7 +1,7 @@
 <div style="border: 1px groove #FF6D00;">
 	<ul class="nav justify-content-front">
 		<li class="nav-item">
-			<a class="nav-link active" href="#">LOGO</a>
+			<a class="nav-link active" href="index.php">LOGO</a>
 		</li>
 	</ul>
 </div>
